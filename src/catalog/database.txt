@@ -1,0 +1,11 @@
+whale 19.99 100
+tux 15.99 100
+fox 99.99 100
+lego 7.77 100
+rubiks 5.99 100
+gameboy 49.99 100
+atari 100.00 100
+chess 29.99 100
+dnd 12.99 100
+pinball 20.50 100
+uno 9.99 100
